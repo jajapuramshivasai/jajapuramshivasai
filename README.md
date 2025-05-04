@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @jajapuramshivasai
-- 👀 I’m interested in Quantum Computing and Compositional Intelligence 
-- 🌱 I’m currently learning Parallel Computing with julia
-- 💞️ I’m looking to collaborate on Deep Tech projects and ideas
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Quantum Informstion Science and High Performance Computing/Simulation. 
+- 🌱 I’m currently learning Parallel Computing with julia and system software.
+- 💞️ I’m looking to collaborate on impactful projects and startup ideas
+
 
 <!---
 jajapuramshivasai/jajapuramshivasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
