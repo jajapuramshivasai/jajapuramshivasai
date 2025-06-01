@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jajapuramshivasai
 - 👀 I’m interested in Quantum Information Science and High Performance Computing/Simulation. 
-- 🌱 I’m currently learning Parallel Computing with julia and system software.
+- 🌱 I’m currently learning Parallel Computing with julia and Quromorphic systems.
 - 💞️ I’m looking to collaborate on impactful projects and startup ideas
 
 
