@@ -32,7 +32,7 @@ Looking to collaborate on:
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajapuramshivasai&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajapuramshivasai&show_icons=true&theme=tokyonight&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jajapuramshivasai&layout=compact&theme=tokyonight)
 
 ---
