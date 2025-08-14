@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Shiva Sai Jajapuram**  
+# 👋 Hi, I’m **Jajapuram Shiva Sai**  
 
 ---
 
