@@ -1,46 +1,46 @@
-# 👋 Hi, I’m **Jajapuram Shiva Sai**  
+# Hi, I'm Jajapuram Shiva Sai
 
 ---
 
-## 👀 **Interests**
-- 🧠 Quantum Computing & Information Theory  
-- ⚡ High-Performance Computing & Simulations  
-- 🕸 Neuromorphic & Hybrid Computing Architectures  
-- 📊 Optimization & Scalable Algorithms  
+## Research Interests
+- Quantum Computing & Information Theory
+- High-Performance Computing & Simulations
+- Neuromorphic & Hybrid Computing Architectures
+- Optimization & Scalable Algorithms
 
 ---
 
-## 🌱 **Currently Learning**
-- 🖥 **Parallel & Distributed Computing** with Julia  
-- 🔬 Quromorphic System Modeling & Applications  
+## Current Focus
+- Parallel & Distributed Computing with Julia
+- Quromorphic System Modeling & Applications
 
 ---
 
-## 🤝 **Open to Collaborations**
-Looking to collaborate on:  
-- 🌌 Open-source projects in **Quantum Computing / HPC**  
-- 🚀 Impact-driven **research & startup ideas**  
-- 🔗 Classical–Quantum Hybrid Systems & Simulations  
+## Collaboration Opportunities
+I am actively seeking collaborations in:
+- Open-source projects in Quantum Computing and High-Performance Computing
+- Impact-driven research and startup initiatives
+- Classical–Quantum Hybrid Systems & Simulations
 
 ---
 
-## 🛠 **Tech Stack**
+## Technical Expertise
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajapuramshivasai&show_icons=true&theme=tokyonight&hide_rank=true)  
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajapuramshivasai&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jajapuramshivasai&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 **Connect with Me**
+## Contact Information
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jajapuram-shiva-sai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jajapuramshivasai@gmail.com)
 
 ---
 
-⭐ *If you find my work interesting, feel free to fork, star, or reach out for collaborations!*
+If you find my work relevant to your research or projects, please feel free to reach out for potential collaborations.
