@@ -3,16 +3,16 @@
 ---
 
 ## Research Interests
+- Spintronics based Neuromorphic & In Memory Computing Architectures
 - Quantum Computing & Information Theory
 - High-Performance Computing & Simulations
-- Neuromorphic & Hybrid Computing Architectures
-- Optimization & Scalable Algorithms
+- Neural Computation and its Integrated Information and Complexity Theory
 
 ---
 
 ## Current Focus
 - Parallel & Distributed Computing with Julia
-- Quromorphic System Modeling & Applications
+- Quromorphic System Modeling & Applications like Neural Quantum Interfaces
 
 ---
 
