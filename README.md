@@ -3,24 +3,24 @@
 ---
 
 ## Research Interests
-- Spintronics based Neuromorphic & In Memory Computing Architectures
-- Quantum Computing & Information Theory
-- High-Performance Computing & Simulations
-- Neural Computation and its Integrated Information and Complexity Theory
+- Tera-Hertz Spintronics-Based Neuromorphic and In-Memory Computing Architectures  
+- Quantum Computing and Information Theory  
+- High-Performance Computing and Simulations  
+- Neural Computation, Integrated Information & Complexity Theory
 
 ---
 
 ## Current Focus
-- Parallel & Distributed Computing with Julia
-- Quromorphic System Modeling & Applications like Neural Quantum Interfaces
+- Parallel and Distributed Computing with Julia
+- Quromorphic System Modeling and Applications in Neural Quantum Interfaces
 
 ---
 
 ## Collaboration Opportunities
-I am actively seeking collaborations in:
-- Open-source projects in Quantum Computing and High-Performance Computing
-- Impact-driven research and startup initiatives
-- Classical–Quantum Hybrid Systems & Simulations
+I am open to collaborations in:  
+- Open-source projects in Quantum Computing and High-Performance Computing  
+- Impact-driven research and startup initiatives  
+- Classical–Quantum Hybrid Systems and Computational Simulations  
 
 ---
 
@@ -32,15 +32,15 @@ I am actively seeking collaborations in:
 ---
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajapuramshivasai&show_icons=true&theme=tokyonight&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jajapuramshivasai&show_icons=true&theme=tokyonight&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jajapuramshivasai&layout=compact&theme=tokyonight)
 
 ---
 
-## Contact Information
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jajapuram-shiva-sai/)
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jajapuram-shiva-sai/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jajapuramshivasai@gmail.com)
 
 ---
 
-If you find my work relevant to your research or projects, please feel free to reach out for potential collaborations.
+If my work aligns with your research or project goals, feel free to reach out for potential collaborations.
