@@ -3,24 +3,18 @@
 ---
 
 ## Research Interests
-- Tera-Hertz Spintronics-Based Neuromorphic and In-Memory Computing Architectures  
-- Quantum Computing and Information Theory  
-- High-Performance Computing and Simulations  
-- Neural Computation, Integrated Information & Complexity Theory
-
----
-
-## Current Focus
-- Parallel and Distributed Computing with Julia
-- Quromorphic System Modeling and Applications in Neural Quantum Interfaces
+- Tera-Hertz Spintronics for Neuromorphic and In-Memory Computing 
+- Quantum Neuroscience and Quantum Information & Complexity Theory
+- Hamiltonian Learning and Quantum Chaos Dynamics Simulation  
+- Quantum Sensors and Quantum Gravity–Inspired Metrology  
 
 ---
 
 ## Collaboration Opportunities
-I am open to collaborations in:  
-- Open-source projects in Quantum Computing and High-Performance Computing  
-- Impact-driven research and startup initiatives  
-- Classical–Quantum Hybrid Systems and Computational Simulations  
+- Hard-tech research and startup projects  
+- Quantum hardware design and fabrication (incl. IITR)  
+- Open-source high-performance and heterogeneous computing tools  
+
 
 ---
 
@@ -42,5 +36,3 @@ I am open to collaborations in:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[DEFUNCT]@HTR.in)
 
 ---
-
-If my work aligns with your research or project goals, feel free to reach out for potential collaborations.
