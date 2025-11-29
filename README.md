@@ -3,7 +3,7 @@
 ---
 
 ## Research Interests
-- Tera-Hertz Spintronics for Neuromorphic and In-Memory Computing 
+- Neuromorphic and In-Memory Computing 
 - Quantum Neuroscience and Quantum Information & Complexity Theory
 - Hamiltonian Learning and Quantum Chaos Dynamics Simulation  
 - Quantum Sensors and Quantum Gravity–Inspired Metrology  
