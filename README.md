@@ -5,7 +5,7 @@
 ## Research Interests
 - Neuromorphic and In-Memory Computing with skyrmionics
 - Quantum Information & Complexity Theory
-- Hamiltonian Learning and Quantum Chaos Dynamics Simulation 
+- Hamiltonian Learning and Quantum Dynamics Simulation 
 
 ---
 
