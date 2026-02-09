@@ -3,8 +3,8 @@
 ---
 
 ## Research Interests
-- Unconventional Computing with spintronics
-- Physics of Information and Complexity
+- Unconventional Computing
+- Physics of Information
 - Hamiltonian Learning and Quantum Dynamics Simulation 
 
 ---
