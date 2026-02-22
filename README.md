@@ -3,16 +3,17 @@
 ---
 
 ## Research Interests
-- Unconventional Computing
 - Physics of Information
-- Hamiltonian Learning and Quantum Dynamics Simulation 
+- Unconventional Computing
+
+
 
 ---
 
 ## Collaboration Opportunities
-- Hard-tech research and startup projects  
-- Hardware design and fabrication 
-- Open-source high-performance and heterogeneous computing tools  
+- Thin Film Technology & Nano Fabrication  
+- Quantum Computing & Devices
+- Hard-tech research and startup projects
 
 
 ---
