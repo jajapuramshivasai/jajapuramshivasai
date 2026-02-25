@@ -11,8 +11,8 @@
 ---
 
 ## Collaboration Opportunities
-- Thin Film Technology & Nano Fabrication  
-- Quantum Computing & Devices
+- Thin Film Technology & Nano Fabrication
+- Quantum Computing & Sensing Devices
 - Hard-tech research and startup projects
 
 
