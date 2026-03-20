@@ -3,7 +3,7 @@
 ---
 
 ## Research Interests
-- Physics of Information
+- Physics of Information Processing
 - Unconventional Computing
 
 
